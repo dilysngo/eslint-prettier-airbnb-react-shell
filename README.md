@@ -103,6 +103,4 @@ Once files are created, you may edit to your liking.
 
 ---
 
-This script was inspired by Jeffrey Zhen's [tutorial](https://blog.echobind.com/integrating-prettier-eslint-airbnb-style-guide-in-vscode-47f07b5d7d6a).
-
-[source](https://github.com/karlhadwen/eslint-prettier-airbnb-react)
+This script was inspired by Jeffrey Zhen's [tutorial](https://blog.echobind.com/integrating-prettier-eslint-airbnb-style-guide-in-vscode-47f07b5d7d6a). [source](https://github.com/karlhadwen/eslint-prettier-airbnb-react)
