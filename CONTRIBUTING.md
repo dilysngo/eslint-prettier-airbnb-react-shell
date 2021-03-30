@@ -2,8 +2,7 @@
 
 Hi! 
 
-This repo started as a way to simplify my own development process following [dilysbi](https://github.com/dilysbi/eslint-prettier-airbnb-react).
-I am not in any way proficient in shell scripting, so I am completely open and welcome having others contribute to this project.
+[source](https://github.com/dilysbi/eslint-prettier-airbnb-react).
 
 If you would like improve this shell script (or any other part of this repo), you can:
 
